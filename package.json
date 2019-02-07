@@ -11,7 +11,7 @@
     "build:server": "cd server && yarn build && cd -",
     "test:server": "cd server && yarn test",
     "test:client": "cd client && yarn test",
-    "package": "./scripts/package.sh"
+    "package": "./package.sh"
   },
   "devDependencies": {
     "concurrently": "^3.5.1",
