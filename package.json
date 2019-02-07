@@ -16,5 +16,6 @@
   "devDependencies": {
     "concurrently": "^3.5.1",
     "enzyme": "^3.3.0"
-  }
+  },
+  "dependencies": {}
 }
